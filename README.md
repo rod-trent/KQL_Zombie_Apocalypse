@@ -26,9 +26,8 @@ Follow these steps to download and ingest the datasets into Azure Data Explorer 
 
 ### 1. Download the Dataset
 
-1. Navigate to the [Releases](https://github.com/your-username/your-repo/releases) section of this repository (or the main repository page).
-2. Download the `ApocalypseLogs_Dataset.zip` file.
-3. Unzip the file to a local directory. You should see three CSV files:
+1. Download the `ApocalypseLogs_Dataset.zip` file from this repository.
+2. Unzip the file to a local directory. You should see three CSV files:
    - `CampSupplies.csv`
    - `SurvivorCensus.csv`
    - `ZombieSightings.csv`
