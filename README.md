@@ -1,6 +1,6 @@
 # ApocalypseLogs Dataset for KQL vs. the Zombie Apocalypse
 
-This repository contains the datasets for the blog post ["KQL vs. the Zombie Apocalypse: Surviving with Data Queries"](https://example.com/blog-post). The datasets simulate a post-apocalyptic world with survivor camps, supply inventories, and zombie sightings. Use these files to follow along with the KQL queries in the blog post and practice analyzing data to survive the undead hordes.
+This repository contains the datasets for the blog post ["KQL vs. the Zombie Apocalypse: Surviving with Data Queries"](https://rodtrent.substack.com/p/kql-vs-the-zombie-apocalypse-surviving). The datasets simulate a post-apocalyptic world with survivor camps, supply inventories, and zombie sightings. Use these files to follow along with the KQL queries in the blog post and practice analyzing data to survive the undead hordes.
 
 ## Dataset Overview
 
@@ -128,7 +128,7 @@ You should see rows from each table, matching the CSV contents.
 
 ### 6. Follow Along with the Blog Post
 
-1. Open the blog post ["KQL vs. the Zombie Apocalypse"](https://example.com/blog-post).
+1. Open the blog post ["KQL vs. the Zombie Apocalypse"](https://rodtrent.substack.com/p/kql-vs-the-zombie-apocalypse-surviving).
 2. In the ADX Query pane, set the database to `ApocalypseLogs`.
 3. Copy and paste the KQL queries from the blog post (e.g., finding low-supply camps, assessing infection risks, predicting zombie migrations).
 4. Run each query and compare the results to the blog post’s examples.
